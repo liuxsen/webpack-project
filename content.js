@@ -1,0 +1,1 @@
+module.exports = '\n\r it works from content.js'
